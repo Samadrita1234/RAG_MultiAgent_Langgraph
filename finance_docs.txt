@@ -1,0 +1,33 @@
+Title: Recent Tax Benefits & Startup Incentives – India (As of August 2025)
+
+1. Section 80-IAC: Extended Tax Holiday  
+   The Union Budget 2025 extends the 100% income tax exemption for eligible startups (registered under Startup India) for three consecutive years. Now, the benefit applies to startups incorporated up to April 1, 2030, with turnovers under ₹100 crore. :contentReference[oaicite:0]{index=0}
+
+2. Angel Tax: Full Abolition  
+   The controversial Angel Tax (Section 56(2)(viib)) has been completely abolished in FY 2025-26 for all startups — regardless of DPIIT recognition status. :contentReference[oaicite:1]{index=1}
+
+3. Capital Gains Exemptions for Investors  
+   - **Section 54EE**: Long-term capital gains are exempt if reinvested (within 6 months) into notified funds (up to ₹50 lakhs, locked in for 3 years). :contentReference[oaicite:2]{index=2}  
+   - **Section 54GB**: Gains from the sale of residential property invested in eligible startups (held for 2–5 years) are also exempt. Available until March 31, 2026. :contentReference[oaicite:3]{index=3}
+
+4. Presumptive Tax & GST Relief  
+   - Presumptive income thresholds are raised: ₹3 crore for businesses (Section 44AD), ₹75 lakhs for professionals (44ADA). :contentReference[oaicite:4]{index=4}  
+   - GST relaxations include quarterly return filing for turnover ≤ ₹5 crore, simplified input tax credit, and waiver of late fees. :contentReference[oaicite:5]{index=5}
+
+5. Sector-Specific & Green Tech Incentives  
+   Startups in AI, green tech, sustainability, renewable energy, and electric mobility can tap into:  
+   - Special R&D deductions  
+   - Preferential tax rates  
+   - Support for digital and sustainable business models :contentReference[oaicite:6]{index=6}
+
+6. MSME & Manufacturing Support  
+   Newly established domestic manufacturing MSMEs benefit from a cut in corporate tax — as low as 15%, down from the standard 25%. :contentReference[oaicite:7]{index=7}
+
+7. Funding Ecosystem Boost  
+   - A new ₹10,000 crore contribution to the *Fund of Funds for Startups* (totaling ₹20,000 crore) has been announced to support scale-up ventures. :contentReference[oaicite:8]{index=8}  
+   - Additional measures include enhanced support for deep tech (AI, robotics, clean energy) startups. :contentReference[oaicite:9]{index=9}
+
+8. DPIIT-Recognized Startup Benefits  
+   - Loss carry-forward flexibility even with ownership changes, provided certain shareholder conditions are met. :contentReference[oaicite:10]{index=10}  
+   - Special grievance cell by CBDT for startups. :contentReference[oaicite:11]{index=11}  
+   - Self-certification for various labour and environmental compliances (for DPIIT-recognized firms) reduces regulatory friction. :contentReference[oaicite:12]{index=12}
